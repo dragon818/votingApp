@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app is a voting app. Decide which car is the greatest car in the world.
+
 ## Available Scripts
 
 In the project directory, you can run:
